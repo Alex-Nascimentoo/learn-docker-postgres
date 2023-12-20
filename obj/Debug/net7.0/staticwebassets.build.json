@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "25gVMHJst695qjF+s7JGO6TU1G3N1MlgnJJBjHGIqbU=",
+  "Source": "docker-postgres",
+  "BasePath": "_content/docker-postgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
