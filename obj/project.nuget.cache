@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HAollrYsaCISVt7hSPG/A/anzt9syAIvERqRrsUX/Cc43gkCw3U+MPo/wA6GTzeyu/k1XcGYM61WHMg7Hd42kA==",
+  "dgSpecHash": "HrqwH/g7S/3x1lXAt+kYYnlEXTMstaZ+IZxtkn8wlWBglMjZqZxqO3wWYbtKU2P6YsCNJIj9DImX4CHhehUZ8g==",
   "success": true,
   "projectFilePath": "/home/alex/Documents/Dev/csharp/docker-postgres/docker-postgres.csproj",
   "expectedPackageFiles": [
